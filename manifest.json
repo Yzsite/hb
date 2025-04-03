@@ -1,11 +1,11 @@
 {
-  "name": "Bluesky",
-  "short_name": "Bluesky",
-  "description": "Bluesky",
+  "name": "Habitica",
+  "short_name": "Habitica",
+  "description": "Habitica",
   "icons": [{
-      "src": "https://img.utdstc.com/icon/9ed/d73/9edd73db2bf4fca6f9ef81e63c10455c29c655d1cfd35d76730bcd50f1300bb4:200",
+      "src": "https://play-lh.googleusercontent.com/js9LcEDMPaWBLW-kX6zrCxVwKDKTsvQRgIubQnZB0wQs4NfNcxPkNlXQOpIDXKX0y5Y=w240-h480-rw",
       "sizes": "256x256",
-      "type": "image/jpeg"
+      "type": "image/webp"
     }],
   "start_url": "./pwa.html",
   "display": "Fullscreen",
